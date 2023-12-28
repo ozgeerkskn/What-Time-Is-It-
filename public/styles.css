@@ -1,0 +1,26 @@
+body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: #fff;
+  padding: 50px;
+  width: 300px;
+  margin: 0 auto;
+  background-color: #374954;
+  text-align: center;
+}
+
+h1 {
+  font-size: 200px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  flex-direction: column;
+}
+
+h2 {
+  display: block;
+  margin: 0; /* Varsayılan margin'leri sıfırla */
+}
